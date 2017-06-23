@@ -1,0 +1,2 @@
+D:\claseGMD\Clase01\Clase01\bin\Debug\Clase01.exe.config
+D:\ClasesGMD\ClaseGMDNET\Clase01\bin\Debug\Clase01.exe.config

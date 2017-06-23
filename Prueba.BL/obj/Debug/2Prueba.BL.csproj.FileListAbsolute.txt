@@ -1,0 +1,13 @@
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.BL.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.BL.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.DAO.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.DAO.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\obj\Debug\2Prueba.BL.csprojResolveAssemblyReference.cache
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\obj\Debug\Prueba.BL.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\obj\Debug\Prueba.BL.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.Infraestructura.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.Model.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.Infraestructura.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\Prueba.Model.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\EntityFramework.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.BL\bin\Debug\EntityFramework.xml

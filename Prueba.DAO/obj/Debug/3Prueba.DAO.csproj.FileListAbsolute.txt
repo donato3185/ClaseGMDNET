@@ -1,0 +1,14 @@
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\Prueba.DAO.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\Prueba.DAO.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\obj\Debug\3Prueba.DAO.csprojResolveAssemblyReference.cache
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\obj\Debug\Prueba.DAO.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\obj\Debug\Prueba.DAO.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\Prueba.DAO.dll.config
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\EntityFramework.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\Prueba.Infraestructura.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\Prueba.Model.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\Prueba.Infraestructura.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\Prueba.Model.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\EntityFramework.xml
+D:\ClasesGMD\ClaseGMDNET\Prueba.DAO\bin\Debug\EntityFramework.SqlServer.xml

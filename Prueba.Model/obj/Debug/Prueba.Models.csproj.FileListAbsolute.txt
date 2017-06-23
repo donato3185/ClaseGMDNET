@@ -1,0 +1,5 @@
+D:\ClasesGMD\ClaseGMDNET\Prueba.Model\bin\Debug\Prueba.Model.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.Model\bin\Debug\Prueba.Model.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.Model\obj\Debug\Prueba.Model.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.Model\obj\Debug\Prueba.Model.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.Model\obj\Debug\Prueba.Models.csprojResolveAssemblyReference.cache

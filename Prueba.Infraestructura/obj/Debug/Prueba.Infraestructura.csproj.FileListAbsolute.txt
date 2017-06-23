@@ -1,0 +1,5 @@
+D:\ClasesGMD\ClaseGMDNET\Prueba.Infraestructura\bin\Debug\Prueba.Infraestructura.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.Infraestructura\bin\Debug\Prueba.Infraestructura.pdb
+D:\ClasesGMD\ClaseGMDNET\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.csprojResolveAssemblyReference.cache
+D:\ClasesGMD\ClaseGMDNET\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.dll
+D:\ClasesGMD\ClaseGMDNET\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.pdb
